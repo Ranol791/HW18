@@ -1,1 +1,2 @@
 # HW18
+Streamlit is a Python library that simplifies the process of creating interactive web applications for data science and machine learning. When you run a Streamlit application, it generates a web interface where you can easily visualize and manipulate data with just a few lines of code. Streamlit users can add new transactions, and each transaction is stored in a new block of the blockchain.
